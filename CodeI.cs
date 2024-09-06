@@ -6,7 +6,7 @@ namespace RAMQ.Domaine.Entites.Piloter.CodesInterventionExclus
     {
         public string Login { get; private set; }
         public int NoSeqCodeInterventionExclus { get; private set; }
-        public int NoSeqSystemeClassification { get; private set; }
+        public int NoSeqSystemeClassificatighdffgdon { get; private set; }
         public DateTime DateDebutCodInterventionExclus { get; private set; }
         public DateTime? DateFinCodInterventionExclus { get; private set; }
         public string CodeInterExclus { get; private set; }
